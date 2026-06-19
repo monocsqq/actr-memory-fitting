@@ -1,0 +1,15 @@
+# Generated logs / reports
+activitywatch_reports/
+daily_reports/
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# macOS
+.DS_Store

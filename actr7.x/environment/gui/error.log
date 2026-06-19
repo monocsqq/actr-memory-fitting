@@ -1,0 +1,44 @@
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/00-copyrights.tcl: can't invoke "winfo" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/06-ctrl-panel-show-loaded.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/10-ctrl-panel-model-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/11-ctrl-panel-load-button.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/11-ctrl-panel-load-python-button.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/12-ctrl-panel-open-button.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/20-ctrl-panel-running-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/21-stepper.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/21a-event-queue.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/22-ctrl-panel-reset-buttons.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/23-ctrl-panel-run-button.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/23a-ctrl-panel-running-indicator.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/30-ctrl-panel-inspect-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/35-declarative.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/36-procedural.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/37-buffer-viewer.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/38-visicon.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/39-audicon.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/40-parameter-viewer.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/60-ctrl-panel-recorded-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/61-trace-history.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/63-retrieval-history.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/63a-blending-history.tcl: can't invoke "tkwait" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/64-buffer-history.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/66-perceptual-history.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/67-p-history-button.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/67a-ptrace-button.tcl: invalid command name "add_p_history_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/68-pgraph-button.tcl: invalid command name "add_p_history_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/70-ctrl-panel-recorded-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/71-pick-buffers.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/72-ctrl-panel-gt-button.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/72a-ctrl-panel-gt-horizontal.tcl: invalid command name "add_graphic_trace_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/73-ctrl-panel-gt-vertical.tcl: invalid command name "add_graphic_trace_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/81-bold-button.tcl: can't invoke "frame" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/81a-bold-browser.tcl: invalid command name "add_bold_trace_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/82-bold-brain.tcl: can't invoke "image" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/83-bold-brain-3d.tcl: invalid command name "add_bold_trace_type"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/90-ctrl-panel-misc-label.tcl: can't invoke "label" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/91-dispatcher-status.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/95-ctrl-panel-opt-button.tcl: can't invoke "button" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/99-exp-window.tcl: can't invoke "toplevel" command:  application has been destroyed
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/999-emma-eye-spot.tcl: invalid command name "add_agi_handler"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/999-image-item.tcl: invalid command name "add_agi_handler"
+Error during dialog loading of C:/Users/cs21049/Downloads/actr7.x (1)/actr7.x/environment/gui/dialogs/999-touch-fingers.tcl: invalid command name "add_agi_handler"
