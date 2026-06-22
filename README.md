@@ -73,11 +73,11 @@ Run the appropriate batch file depending on the experiment:
 
 ## 2.2 Run Parameter Search
 
-Execute `search_param_time.py` in the `python` directory.
+Execute `search_param.py` in the `python` directory.
 
 ### Select Input Dataset
 
-Edit `search_param_time.py` and uncomment the relevant line:
+Edit `search_param.py` and uncomment the relevant line:
 
 -   **Experiment 1**
 
@@ -112,7 +112,7 @@ Edit `search_param_time.py` and uncomment the relevant line:
 ### Execute
 
 ``` bash
-python .\python\search_param_time.py (trial_name)
+python .\python\search_param.py (trial_name)
 ```
 
 `trial_name` specifies the name of the parameter estimation run.
