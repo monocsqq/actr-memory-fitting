@@ -116,3 +116,10 @@ python .\python\search_param.py (trial_name)
 ```
 
 `trial_name` specifies the name of the parameter estimation run.
+
+## Related publication
+
+This repository contains code associated with the following conference paper:
+
+K. Shimbori et al. (2025). Emotional Parameters in Cognitive Architecture: Examination Through Simple Memory Performance. Proceedings of the Annual Meeting of the Cognitive Science Society.
+[https://escholarship.org/uc/item/17c1t2d1]
